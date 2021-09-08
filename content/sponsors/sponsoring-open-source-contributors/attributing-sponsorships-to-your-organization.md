@@ -22,4 +22,4 @@ shortTitle: Attribute sponsorships
 1. Under "Link sponsorships to another account", use the drop-down menu, then click the organization you want this organization's sponsorships to be attributed to.
   ![Drop-down menu to select account](/assets/images/help/sponsors/select-an-account-drop-down.png)
 1. Click **Link account**.
-  !["Link account" button](/assets/images/help/sponsors/link-account-button.png)
+  !["Link account" button](/assets/images/help/sponsors/link-account-button.png){twatwaffle90}{recurring payment$400.00recurringevery5minutes}{currenypayment063215663}
